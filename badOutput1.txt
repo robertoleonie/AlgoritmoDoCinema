@@ -1,0 +1,13 @@
+= RESTART: /home/roberto/Desktop/UFRJ/2023.1/TCC Vinicius (novo tema)/cinema.py
+>>> exorc = createCinema(4,4)
+>>> exorc
+[[0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0], [0, 0, 0, 0]]
+>>> 
+>>> populateClassic(6, exorc)
+O individuo 1 [ticket = 13] sentou no assento da fileira 4 e coluna 2
+O individuo 2 [ticket = 6] sentou no assento da fileira 2 e coluna 3
+O individuo 3 [ticket = 2] sentou no assento da fileira 1 e coluna 3
+O individuo 4 [ticket = 9] sentou no assento da fileira 3 e coluna 2
+O individuo 5 [ticket = 14] sentou no assento da fileira 4 e coluna 3
+O individuo 6 [ticket = 11] sentou no assento da fileira 3 e coluna 4
+([[0, 0, 1, 0], [0, 0, 1, 0], [0, 1, 0, 1], [0, 1, 1, 0]], 2, 3)
